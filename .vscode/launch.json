@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GeraTestes",
+            "request": "launch",
+            "mainClass": "br.com.munif.pocs.matera.cucumberposit.GeraTestes",
+            "projectName": "CucumberPosit"
+        }
+    ]
+}
